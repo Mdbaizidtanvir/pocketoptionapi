@@ -12,4 +12,5 @@ A Python API wrapper for integrating with [Pocket Option](https://pocketoption.c
 ## 📦 Installation
 
 ```bash
-pip install pocketoptionapi
+pip install pocketoptionapi2==0.1.1
+```
